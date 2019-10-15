@@ -1,0 +1,17 @@
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\bin\Debug\seminarski-is.exe
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\bin\Debug\seminarski-is.pdb
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\obj\x86\Debug\seminarski_is.Form1.resources
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\obj\x86\Debug\seminarski_is.Properties.Resources.resources
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\obj\x86\Debug\seminarski-is.csproj.GenerateResource.Cache
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\obj\x86\Debug\seminarski-is.exe
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\obj\x86\Debug\seminarski-is.pdb
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\obj\x86\Debug\seminarski_is.authors.resources
+D:\ftn\iii-godina\šesti-semestar\is\seminarski\seminarski-is\obj\x86\Debug\seminarski-is.csprojResolveAssemblyReference.cache
+D:\ftn\iii-godina\šesti-semestar\is\seminarski\seminarski-is\obj\x86\Debug\seminarski_is.author.resources
+D:\ftn\iii-godina\šesti-semestar\is\seminarski\seminarski-is\obj\x86\Debug\seminarski_is.Form1.resources
+D:\ftn\iii-godina\šesti-semestar\is\seminarski\seminarski-is\obj\x86\Debug\seminarski_is.Properties.Resources.resources
+D:\ftn\iii-godina\šesti-semestar\is\seminarski\seminarski-is\obj\x86\Debug\seminarski-is.csproj.GenerateResource.Cache
+D:\ftn\iii-godina\šesti-semestar\is\seminarski\seminarski-is\obj\x86\Debug\seminarski-is.exe
+D:\ftn\iii-godina\šesti-semestar\is\seminarski\seminarski-is\obj\x86\Debug\seminarski-is.pdb
+D:\ftn\iii-godina\šesti-semestar\is\seminarski\seminarski-is\bin\Debug\seminarski-is.exe
+D:\ftn\iii-godina\šesti-semestar\is\seminarski\seminarski-is\bin\Debug\seminarski-is.pdb

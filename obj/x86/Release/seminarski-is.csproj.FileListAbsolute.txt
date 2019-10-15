@@ -1,0 +1,8 @@
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\bin\Release\seminarski-is.exe
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\bin\Release\seminarski-is.pdb
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\obj\x86\Release\seminarski_is.Form1.resources
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\obj\x86\Release\seminarski_is.Properties.Resources.resources
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\obj\x86\Release\seminarski-is.csproj.GenerateResource.Cache
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\obj\x86\Release\seminarski-is.exe
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\obj\x86\Release\seminarski-is.pdb
+D:\ftn\iii-godina\vi-semestar\is\seminarski\seminarski-is\obj\x86\Release\seminarski_is.authors.resources
